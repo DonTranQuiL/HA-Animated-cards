@@ -5,6 +5,11 @@
 [![buymecoffee][buy_me_coffee_shield]][buy_me_coffee_me]
 [![patreon][patreon_shield]][patreon_me]
 <!-- anashost_support_badges_end -->
+
+[![Discord](https://img.shields.io/badge/Discord-join%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qaHPTTKHae)
+
+Join the DonTranQuiL Discord for support and updates.
+
 <!-- 
 ```diff
 - text in red
